@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3289ba95.css",
+    "main.js": "/static/js/main.56582d41.js",
+    "static/media/Справо.png": "/static/media/Справо.3084eac7989150e0893f.png",
+    "static/media/HeadingImg.png": "/static/media/HeadingImg.125efe4602c3d8e7e575.png",
+    "static/media/Logo.png": "/static/media/Logo.87b0f071a0ea56e938f9.png",
+    "index.html": "/index.html",
+    "main.3289ba95.css.map": "/static/css/main.3289ba95.css.map",
+    "main.56582d41.js.map": "/static/js/main.56582d41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3289ba95.css",
+    "static/js/main.56582d41.js"
+  ]
+}
